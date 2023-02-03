@@ -1,0 +1,29 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<usages xmlns="http://xmlns.oracle.com/jdeveloper/110000//usages-tracking-data">
+   <hash n="system-info">
+      <value n="build-label" v="234.1810"/>
+      <value n="dev-build" v="false"/>
+      <value n="guid" v="e24bd638-0185-1000-8001-7f000001f74c"/>
+      <value n="jdk-version" v="11.0.16.1"/>
+      <value n="operating-system" v="Mac OS X"/>
+      <value n="product-edition"/>
+      <value n="product-name" v="Oracle SQL Developer"/>
+      <value n="product-version" v="22.2.1.234.1810"/>
+      <value n="session-end-time" v="1674540184387"/>
+      <value n="session-id" v="1674539012530"/>
+      <value n="session-start-time" v="1674539012530"/>
+      <value n="user-role"/>
+   </hash>
+   <hash n="usage-data">
+      <list n="activities">
+         <hash>
+            <value n="event-id" v="ACTIVATE_EDITOR"/>
+            <hash n="event-properties">
+               <value n="node-class" v="oracle.dbtools.raptor.startpage.StartPageNode"/>
+            </hash>
+            <value n="event-source" v="oracle.dbtools.raptor.startpage.StartPageViewer"/>
+            <value n="time-stamp" v="1674539013779"/>
+         </hash>
+      </list>
+   </hash>
+</usages>
